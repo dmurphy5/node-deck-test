@@ -1,4 +1,4 @@
-const CardDealer = require("../CardDealer");
+const CardDealer = require("../src/CardDealer");
 
 const mockCustomDeck = [
     { color: "red", value: 1 },
