@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardDealer Standard deck matches snapshot 1`] = `
+Array [
+  Object {
+    "suit": "Hearts",
+    "value": 1,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 2,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 3,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 4,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 5,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 6,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 7,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 8,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": 9,
+  },
+  Object {
+    "suit": "Hearts",
+    "value": "J",
+  },
+  Object {
+    "suit": "Hearts",
+    "value": "Q",
+  },
+  Object {
+    "suit": "Hearts",
+    "value": "K",
+  },
+  Object {
+    "suit": "Spades",
+    "value": 1,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 2,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 3,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 4,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 5,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 6,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 7,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 8,
+  },
+  Object {
+    "suit": "Spades",
+    "value": 9,
+  },
+  Object {
+    "suit": "Spades",
+    "value": "J",
+  },
+  Object {
+    "suit": "Spades",
+    "value": "Q",
+  },
+  Object {
+    "suit": "Spades",
+    "value": "K",
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 1,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 2,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 3,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 4,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 5,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 6,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 7,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 8,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": 9,
+  },
+  Object {
+    "suit": "Clubs",
+    "value": "J",
+  },
+  Object {
+    "suit": "Clubs",
+    "value": "Q",
+  },
+  Object {
+    "suit": "Clubs",
+    "value": "K",
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 1,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 2,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 3,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 4,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 5,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 6,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 7,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 8,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": 9,
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": "J",
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": "Q",
+  },
+  Object {
+    "suit": "Diamonds",
+    "value": "K",
+  },
+]
+`;
